@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Material_Dashboard/static/js/main.ea5b16bb.js",
+    "main.js": "/Material_Dashboard/static/js/main.0a4c8849.js",
     "static/media/pattern-tree.svg": "/Material_Dashboard/static/media/pattern-tree.156bb943ac7fd244f10c115d085e085e.svg",
     "static/media/home-decor-3.jpg": "/Material_Dashboard/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
     "static/media/home-decor-2.jpg": "/Material_Dashboard/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
@@ -12,13 +12,9 @@
     "static/media/visa.png": "/Material_Dashboard/static/media/visa.71c0d5e9e2aaee42e4c3.png",
     "static/media/mastercard.png": "/Material_Dashboard/static/media/mastercard.27fca3e7637a9458fb64.png",
     "static/media/team-1.jpg": "/Material_Dashboard/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
-    "static/media/bruce-mars.jpg": "/Material_Dashboard/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
-    "static/media/marie.jpg": "/Material_Dashboard/static/media/marie.c28f32663b6432b46f78.jpg",
     "static/media/team-2.jpg": "/Material_Dashboard/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
-    "static/media/team-3.jpg": "/Material_Dashboard/static/media/team-3.0ef0be95e6850814c79e.jpg",
-    "static/media/ivana-square.jpg": "/Material_Dashboard/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
-    "static/media/kal-visuals-square.jpg": "/Material_Dashboard/static/media/kal-visuals-square.3210e28a48ff572ae88b.jpg",
-    "static/media/team-4.jpg": "/Material_Dashboard/static/media/team-4.85c82b6e60178804017f.jpg",
+    "static/media/bruce-mars.jpg": "/Material_Dashboard/static/media/bruce-mars.14a791364acb531386e5.jpg",
+    "static/media/kal-visuals-square.jpg": "/Material_Dashboard/static/media/kal-visuals-square.5ff67d0414907c428e77.jpg",
     "static/media/github.svg": "/Material_Dashboard/static/media/github.067f80f311bc16bd0d1216457d09bdb3.svg",
     "static/media/logo-slack.svg": "/Material_Dashboard/static/media/logo-slack.7c47c5aa474b5c4fb39fcf05ffb8e4e7.svg",
     "static/media/logo-xd.svg": "/Material_Dashboard/static/media/logo-xd.6e37886f94dba0c2967ece68a152e30c.svg",
@@ -30,6 +26,6 @@
     "index.html": "/Material_Dashboard/index.html"
   },
   "entrypoints": [
-    "static/js/main.ea5b16bb.js"
+    "static/js/main.0a4c8849.js"
   ]
 }
